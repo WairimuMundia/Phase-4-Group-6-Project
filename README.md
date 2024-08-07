@@ -5,7 +5,6 @@ This project aims to empower real estate investors with sophisticated time serie
 
 ## Contributors
 - Carol Mundia
-- Crystal Wanjiru
 - Ian Nzangi
 - Pascalia Maiga
 
